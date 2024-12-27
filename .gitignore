@@ -1,1 +1,4 @@
-data/
+# Ignore data files but track the DVC files
+data/*
+!data/*.dvc
+
